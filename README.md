@@ -1,2 +1,2 @@
 # MP3-Downloader-Bot
-WIP for Discord THS Server.
+Update-Limit restricted by Discord.Buy Nitro and add Downloader.py code in main code.
